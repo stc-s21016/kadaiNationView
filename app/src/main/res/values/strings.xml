@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">課題２</string>
+    <string-array name="Lv_menu">
+        <item>イギリス</item>
+        <item>アメリカ</item>
+        <item>ロシア</item>
+        <item>アメリカ</item>
+        <item>インド</item>
+        <item>中国</item>
+        <item>韓国</item>
+        <item>ポルトガル</item>
+        <item>スイス</item>
+        <item>ノルウェー</item>
+        <item>スペイン</item>
+        <item>カザフスタン</item>
+        <item>モンゴル</item>
+        <item>インドネシア</item>
+        <item>オーストリア</item>
+    </string-array>
+</resources>
